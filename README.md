@@ -1,8 +1,8 @@
 Database Management Dep app
 
-Features:
-    1. Search by any data
-    2. Sort by columns(fisrtName, lastName, createdAt, country)
-    3. Order asc | desc
-    4. Users CRUD
-    5. Form validations
+## Features:
+    - Search by any data
+    - Sort by columns(fisrtName, lastName, createdAt, country)
+    - Order asc | desc
+    - Users CRUD
+    - Form validations
